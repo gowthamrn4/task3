@@ -1,0 +1,340 @@
+           body{
+ 	           margin-left:0;
+			   margin-right:0;
+			}
+		.header ul{
+
+			list-style-type: none;
+		    margin:0;
+		    position: fixed;
+		    top: 0;
+		    width:100%;
+            background-color: #333;
+        }
+
+			.header ul li{
+
+                    float: right;
+					}
+
+			.header ul li a{
+				margin-top:0px;
+				display: block;
+					 color: white;
+					 text-align: center;
+					 padding: 3px 9px;
+					 text-decoration: none;
+
+					}
+			.active
+			{
+				width:80%;
+					font-size:10px;
+					margin:0 auto;
+				}
+				.home
+				{
+
+					float:left;
+				}
+				.header1
+				{
+				margin-top:0px;
+				padding: 60px;
+				background-color:gray;
+				}
+				.icon
+				{
+					float:left;
+				}
+.heading
+{
+	float:right;
+	margin-left:30px;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+
+}
+select
+{   border:4px solid #8900ff;
+	padding:3px;
+	background-color:#8900ff;
+	color:white;
+	font-family: 'Open Sans', sans-serif;
+}
+input
+{
+	padding:6px;
+}
+.icon
+{
+	margin-left:130px;
+}
+.select
+{   margin-left: 190px;
+	float:left;
+}
+.search
+{
+	margin-left:05px;
+	float: left;
+}
+.icon2
+{
+	float:right;
+}
+
+
+.menu
+{   margin-top:10px;
+	padding:15px;
+	background-color: lightgray;
+	border-bottom:3px solid black;
+}
+.menu1
+{   margin-top:-20px;
+	padding:12px;
+}
+a
+{
+	text-decoration:none;
+color: black;
+
+}
+li
+{
+	display:inline;
+	float:left;
+	padding:10px;
+}
+.element
+{
+	overflow:scroll;
+	overflow-x:hidden;
+	overflow-y:hidden;
+	background-color:white;
+	width:400px;
+	margin-left: 90px;
+	margin-top:-33px;
+	padding:1px;
+}
+
+span
+{
+	float:left;
+	padding:4px;
+
+}
+.first
+{
+	background-color:lightgray;
+	padding:0px;
+	border:3px solid white;
+	color:gray;
+}
+.button1
+{
+	float:right;
+	margin-top:-50px;
+}
+.menu2
+{
+
+	margin-top:-60px;
+	margin-left:450px;
+}
+.tamilnadu
+{
+	color:gray;
+	margin-top:-10px;
+
+}
+input[type=submit]
+{
+	background-color: lightgreen;
+	width:100px;
+	height:40px;
+	margin-right:5px;
+}
+input[type=reset]
+{
+	background-color:red;
+	width:100px;
+	height:40px;
+	margin-right:50px;
+}
+.center
+{
+	margin:40px 0px 0px 270px; ;
+	margin-right:50px;
+}
+.box
+{
+	border:15px solid white;
+background-color:gray;
+width:160px;
+height:170px;
+float:left;
+}
+.box1
+{
+	width:160px;
+	height:50px;
+	background-color:#8900ff;
+	margin-top:150px;
+	color: white;
+}
+.center1
+{
+	margin:60px 0px 0px 270px;
+	float:left;
+
+}
+
+.boxx
+{
+	border:15px solid white;
+	background-color:gray;
+	width:160px;
+	height:170px;
+	float:left;
+}
+.box2
+{
+	width:160px;
+	height:50px;
+	background-color:#8900ff;
+	margin-top:170px;
+	color:white;
+}
+.center2
+{
+	margin:60px 0px 0px 270px;
+	float:left;
+}
+
+.bx
+{
+	background-color:gray;
+	width:160px;
+	height:170px;
+	float:left;
+	border:15px solid white;
+}
+.box3
+{
+	width:160px;
+	height:50px;
+	background-color:#8900ff;
+	margin-top:140px;
+	color:white;
+
+}
+.center3
+{
+	margin:60px 0px 0px 270px;
+	float:left;
+}
+.by
+{
+	background-color:gray;
+	width:160px;
+	height:170px;
+	float: left;
+	border:15px solid white;
+}
+
+.box4
+{
+	width:160px;
+	height: 50px;
+	background-color:#8900ff;
+	margin-top: 140px;
+	color:white;
+
+}
+.load
+{
+	margin:3px 0px 0px 550px;
+float:left;
+}
+
+
+
+.foot
+{
+	float:left;
+	width:1349px;
+	height:150px;
+}
+
+.foot{
+	background-color:#333;
+			overflow:hidden;
+			margin-top:10px;
+		}
+			.foots{
+				width:57%;
+				   overflow:hidden;
+				}
+			.foots ul li{
+				        float: left;
+						list-style-type:none;
+					}
+
+			.foots ul li a{
+				display: block;
+					 color: white;
+					 text-align: center;
+					 padding: 5px;
+					 text-decoration: none;
+					}
+			.act{
+				width:80%;
+				font-size:10px;
+
+				}
+			.hr1{
+				 margin-top:-10px;
+				 width:40%;
+				 float:left;
+				}
+			.hr2{
+				
+				 width:40%;
+				 float:left;
+				}
+			.logo{
+				float:left;
+				  width:20%;
+				  
+				}
+			.social{
+				overflow:hidden;
+					padding-left:41%;
+					}
+			
+			.copy p{
+				color: white;
+				  font-size: 10px;
+				  padding-left: 42%;
+			      width: 80%;
+					margin-bottom:0;
+					margin-left: 12%;
+				    margin-top:0;
+					 font-size:10px;
+					width: 80%;
+					
+					
+				}
+			hr{
+				border-bottom-color:#d127efd9;
+				   border-top-color:#d127efd9;
+				}
+				.copp
+				{
+              margin-top:40px;
+
+				}
+				
